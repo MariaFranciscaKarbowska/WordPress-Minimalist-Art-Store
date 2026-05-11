@@ -31,7 +31,7 @@
 
 | 𝚂𝚝𝚘𝚛𝚎𝚏𝚛𝚘𝚗𝚝 𝙳𝚎𝚜𝚒𝚐𝚗 | 𝙿𝚛𝚒𝚗𝚝 𝚁𝚊𝚝𝚒𝚘 𝙶𝚞𝚒𝚍𝚎 | 𝚂𝚑𝚘𝚙 𝙼𝚊𝚒𝚗 𝙿𝚊𝚐𝚎 | 𝙱𝚕𝚘𝚐 𝙼𝚊𝚒𝚗 𝙿𝚊𝚐𝚎 |
 | :---: | :---: | :---: | :---: |
-| <img src="home.png" width="400"> | <img src="ratios.png" width="400"> | <img src="shop.png" width="400"> | <img src="blog.png" width="400">
+| <img src="home.png" width="500"> | <img src="ratios.png" width="500"> | <img src="shop.png" width="500"> | <img src="blog.png" width="500">
 
 ---
 <p align="right">
